@@ -54,14 +54,14 @@ namespace Minirechner
             }
              
 
-            /*
+            
             if (RechenOperation == 4)   // Dividieren
             {
                 Ergebnis = Dividieren(ErsteZahl, ZweitZahl);
                 Div = "dividiert mit";
                 Console.WriteLine(ErsteZahl + " " + Div + " " + ZweitZahl + " ergibt: " + Ergebnis);
             }
-             */
+             
 
             Console.ReadKey();
         }
@@ -90,12 +90,12 @@ namespace Minirechner
         }
          
 
-        /*
+        
         static int Dividieren(int zahl1, int zahl2)
         {
             int Lösung = zahl1 / zahl2;
             return Lösung;
         }
-         */
+         
     }
 }
