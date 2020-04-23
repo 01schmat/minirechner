@@ -45,14 +45,14 @@ namespace Minirechner
             }
              
 
-            /*
+            
             if (RechenOperation == 3)   // Multiplizieren
             {
                 Ergebnis = Multiplizieren(ErsteZahl, ZweitZahl);
                 Mul = "multipliziert mit";
                 Console.WriteLine(ErsteZahl + " " + Mul + " " + ZweitZahl + " ergibt: " + Ergebnis);
             }
-             */
+             
 
             /*
             if (RechenOperation == 4)   // Dividieren
@@ -82,13 +82,13 @@ namespace Minirechner
         }
          
 
-        /*
+        
         static int Multiplizieren(int zahl1, int zahl2)
         {
             int Lösung = zahl1 * zahl2;
             return Lösung;
         }
-         */
+         
 
         /*
         static int Dividieren(int zahl1, int zahl2)
