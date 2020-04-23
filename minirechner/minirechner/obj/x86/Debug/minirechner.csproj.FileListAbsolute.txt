@@ -1,0 +1,6 @@
+C:\Users\schro\AppData\Local\Temporary Projects\minirechner\bin\Debug\minirechner.exe
+C:\Users\schro\AppData\Local\Temporary Projects\minirechner\bin\Debug\minirechner.pdb
+C:\Users\schro\AppData\Local\Temporary Projects\minirechner\obj\x86\Debug\minirechner.exe
+C:\Users\schro\AppData\Local\Temporary Projects\minirechner\obj\x86\Debug\minirechner.pdb
+C:\Users\schro\Documents\minirechner\minirechner\minirechner\obj\x86\Debug\minirechner.exe
+C:\Users\schro\Documents\minirechner\minirechner\minirechner\obj\x86\Debug\minirechner.pdb
